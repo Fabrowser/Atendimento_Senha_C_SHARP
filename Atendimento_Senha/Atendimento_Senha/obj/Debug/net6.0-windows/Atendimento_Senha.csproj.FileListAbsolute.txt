@@ -1,0 +1,17 @@
+C:\Users\fabri\source\repos\Atendimento_Senha\Atendimento_Senha\bin\Debug\net6.0-windows\Atendimento_Senha.exe
+C:\Users\fabri\source\repos\Atendimento_Senha\Atendimento_Senha\bin\Debug\net6.0-windows\Atendimento_Senha.deps.json
+C:\Users\fabri\source\repos\Atendimento_Senha\Atendimento_Senha\bin\Debug\net6.0-windows\Atendimento_Senha.runtimeconfig.json
+C:\Users\fabri\source\repos\Atendimento_Senha\Atendimento_Senha\bin\Debug\net6.0-windows\Atendimento_Senha.dll
+C:\Users\fabri\source\repos\Atendimento_Senha\Atendimento_Senha\bin\Debug\net6.0-windows\Atendimento_Senha.pdb
+C:\Users\fabri\source\repos\Atendimento_Senha\Atendimento_Senha\obj\Debug\net6.0-windows\Atendimento_Senha.csproj.AssemblyReference.cache
+C:\Users\fabri\source\repos\Atendimento_Senha\Atendimento_Senha\obj\Debug\net6.0-windows\Atendimento_Senha.Form1.resources
+C:\Users\fabri\source\repos\Atendimento_Senha\Atendimento_Senha\obj\Debug\net6.0-windows\Atendimento_Senha.csproj.GenerateResource.cache
+C:\Users\fabri\source\repos\Atendimento_Senha\Atendimento_Senha\obj\Debug\net6.0-windows\Atendimento_Senha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\source\repos\Atendimento_Senha\Atendimento_Senha\obj\Debug\net6.0-windows\Atendimento_Senha.AssemblyInfoInputs.cache
+C:\Users\fabri\source\repos\Atendimento_Senha\Atendimento_Senha\obj\Debug\net6.0-windows\Atendimento_Senha.AssemblyInfo.cs
+C:\Users\fabri\source\repos\Atendimento_Senha\Atendimento_Senha\obj\Debug\net6.0-windows\Atendimento_Senha.csproj.CoreCompileInputs.cache
+C:\Users\fabri\source\repos\Atendimento_Senha\Atendimento_Senha\obj\Debug\net6.0-windows\Atendimento_Senha.dll
+C:\Users\fabri\source\repos\Atendimento_Senha\Atendimento_Senha\obj\Debug\net6.0-windows\refint\Atendimento_Senha.dll
+C:\Users\fabri\source\repos\Atendimento_Senha\Atendimento_Senha\obj\Debug\net6.0-windows\Atendimento_Senha.pdb
+C:\Users\fabri\source\repos\Atendimento_Senha\Atendimento_Senha\obj\Debug\net6.0-windows\Atendimento_Senha.genruntimeconfig.cache
+C:\Users\fabri\source\repos\Atendimento_Senha\Atendimento_Senha\obj\Debug\net6.0-windows\ref\Atendimento_Senha.dll
